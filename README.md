@@ -1,6 +1,6 @@
 # Community Events - GitHub CI/CD スターター
 
-Issue、ブランチ、Pull Request、CI、GitHub Pages CD を一巡するための小さな Vite アプリです。実在の組織、イベント、アカウントは使用していません。
+変更してみた。
 
 ## 前提条件
 
